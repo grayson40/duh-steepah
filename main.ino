@@ -8,7 +8,7 @@ void setup()
 {
     // Setup servos
     servo1.attach(3);
-    servo2.attach(9);
+    servo2.attach(5);
 
     // Begin coms
     Serial.begin(9800);
